@@ -1,0 +1,21 @@
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input_name {
+    margin-bottom: 15px;
+
+}
+
+.input_email {
+    margin-bottom: 15px;
+    
+}
+
+.message_area {
+    margin-bottom: 15px;
+   
+}
