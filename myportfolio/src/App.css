@@ -43,7 +43,9 @@
 
 
 /* Add any additional CSS styling you desire */
-
+html, body {
+  height: 100%;
+}
 
 header {
   padding: 40px;
@@ -136,6 +138,7 @@ p {
 }
 
 footer {
+  flex-shrink: 0;
   padding: 20px;
   color: #fff;
   font-size: 12px;
